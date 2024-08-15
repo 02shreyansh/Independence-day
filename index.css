@@ -60,7 +60,7 @@
     height: 100vh;
     top:0%;
     opacity: 1;
-    animation: fadeOut 14s forwards;
+    animation: fadeOut 9s forwards;
 }
 @keyframes fadeOut {
     0% {
